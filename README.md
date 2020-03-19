@@ -3,6 +3,7 @@ As imagens do virtual enviorment são maiores que o limite do git e na minha int
 
 1 - Criar o virtual enviroment:
 cd ~/django-rest/RunningTimeRESTAPI
+
 python3 -m venv env
 
 2 - Ativar a venv 
