@@ -15,7 +15,7 @@ env\Scripts\activate.bat
 
 linux/mac:
 
-source tutorial-env/bin/activate
+source env/bin/activate
 
 ## 3 - instalar as requirements 
 
