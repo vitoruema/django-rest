@@ -1,0 +1,15 @@
+{
+  "train_type": "TRAIN_TYPE_ID_BOre",
+  "train_length": 1230,
+  "segments":[
+    [["SEGMENT_ORIGIN_PELICAN"], ["PELICANN3T", "PELICANNNET", "fake"]],
+    [["SEGMENT_ORIGIN_PENNET-NWT"], ["PELICANNNWT"]]
+  ],
+  "track_length": {
+    "fake": 69,
+    "PELICANN3T": 8.405,
+    "PELICANNNET": 8.405,
+    "PELICANNNWT": 9.214
+  },
+  "pred_ini": 20
+}
