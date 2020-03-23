@@ -36,5 +36,5 @@ Em outra janela do terminal:
 2. **Run container:**<br/>
 	docker run -it -p 8888:8888 runningTimeDocker
 3. **Realizar uma chamada:**<br/>
-	Em outra janela do terminal: numa venv com httpie instalada, pode ser a venv da parte anterior:
+	Em outra janela do terminal: numa venv com httpie instalada, pode ser a venv da parte anterior:<br/>
 	http -format -JSON GET http://0.0.0.0:8888/runningtime/ < ~/successful_test.json
